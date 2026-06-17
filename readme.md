@@ -20,4 +20,4 @@ what this client is trying to achieve:
 - porting all 1.18.2 features 
 
 ### bugs/suggestions
-pls make an issue asking for whatever you want to be added to this client which isnt revolving around via (1.21 textures) or anything unless its something i forgot in an update. 
+pls make an issue asking for whatever you want to be added to this client which isnt revolving around via (like 1.21 textures or features) or anything unless its something i forgot in an update. 
